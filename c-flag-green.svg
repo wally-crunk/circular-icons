@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-flag-green</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-flag-green" sketch:type="MSArtboardGroup">
+            <circle id="Oval-1" fill="#A5D6E6" sketch:type="MSShapeGroup" cx="32" cy="32" r="32"></circle>
+            <g id="Rectangle-87-+-Rectangle-88" sketch:type="MSLayerGroup" transform="translate(18.000000, 16.000000)">
+                <rect id="Rectangle-87" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="2" width="6" height="30"></rect>
+                <path d="M6,2 L6,20 C11,14.9999999 23,25.0000009 28,20 L28,2 C23,6.99999999 11,-3.00000002 6,2 Z" id="Rectangle-88" fill="#00BF2F" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

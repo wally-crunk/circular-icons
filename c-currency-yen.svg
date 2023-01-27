@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-currency-yen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-currency-yen" sketch:type="MSArtboardGroup">
+            <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 Z" id="Oval-1" fill="#A5D6E6" sketch:type="MSShapeGroup"></path>
+            <path d="M28.7767241,49 L28.7767241,41.0743243 L21.887069,41.0743243 L21.887069,38.2256757 L28.7767241,38.2256757 L28.7767241,34.8256757 L21.887069,34.8256757 L21.887069,32 L28.7767241,32 L18,15 L23.4232759,15 L31.8025862,28.2094595 L40.8336207,15 L45,15 L33.362069,32 L40.2517241,32 L40.2517241,34.8256757 L33.362069,34.8256757 L33.362069,38.2256757 L40.2517241,38.2256757 L40.2517241,41.0743243 L33.362069,41.0743243 L33.362069,49 L28.7767241,49 Z" id="¥" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-clock" sketch:type="MSArtboardGroup">
+            <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 Z" id="Oval-1" fill="#1191BB" sketch:type="MSShapeGroup"></path>
+            <path d="M29.8009205,9.99079512 C29.9108691,8.89130932 30.8877296,7.99999998 32,7.99999998 L32,7.99999998 C33.1045695,7.99999998 34.0885181,8.88518111 34.1990795,9.99079512 L36,28 L28,28 L29.8009205,9.99079512 Z" id="Rectangle-33" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-57" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="32" cy="32" r="6"></circle>
+            <path d="M39.7035618,30.7502716 C39.8243866,29.6498514 40.8093788,28.8437861 41.912482,28.950735 L42.2132756,28.9798977 C43.3124038,29.0864613 44.2904445,30.0674257 44.3979234,31.1723065 L45.9582331,47.2122668 L37.8960549,47.2122668 L39.7035618,30.7502716 Z" id="Rectangle-33" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(41.927144, 38.076739) rotate(-240.000000) translate(-41.927144, -38.076739) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-magnify</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-magnify" sketch:type="MSArtboardGroup">
+            <circle id="Oval-1" fill="#1191BB" sketch:type="MSShapeGroup" cx="32" cy="32" r="32"></circle>
+            <path d="M32.395184,36.895184 C39.5748857,36.895184 45.395184,31.0748857 45.395184,23.895184 C45.395184,16.7154822 39.5748857,10.895184 32.395184,10.895184 C25.2154822,10.895184 19.395184,16.7154822 19.395184,23.895184 C19.395184,31.0748857 25.2154822,36.895184 32.395184,36.895184 Z M32.395184,33.895184 C37.9180314,33.895184 42.395184,29.4180314 42.395184,23.895184 C42.395184,18.3723365 37.9180314,13.895184 32.395184,13.895184 C26.8723365,13.895184 22.395184,18.3723365 22.395184,23.895184 C22.395184,29.4180314 26.8723365,33.895184 32.395184,33.895184 Z M29.395184,36.895184 L35.395184,36.895184 L35.395184,53.895184 L29.395184,53.895184 L29.395184,36.895184 Z" id="Oval-190" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(32.395184, 32.395184) rotate(-45.000000) translate(-32.395184, -32.395184) "></path>
+        </g>
+    </g>
+</svg>

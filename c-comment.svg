@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-comment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-comment" sketch:type="MSArtboardGroup">
+            <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 Z" id="Oval-1" fill="#1191BB" sketch:type="MSShapeGroup"></path>
+            <path d="M40.75,42 L44.0015401,42 C48.4150647,42 52,38.4220153 52,34.0083475 L52,25.9916525 C52,21.5800761 48.4189675,18 44.0015401,18 L19.9984599,18 C15.5849353,18 12,21.5779847 12,25.9916525 L12,34.0083475 C12,38.4199239 15.5810325,42 19.9984599,42 L32,42 L32,49 L40.75,42 Z" id="Rectangle-44" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
