@@ -1,5 +1,5 @@
 # circular-icons
 
-This is a mirror of Circular-Icons released by Prothemedesign.com under the MIT license.
+This is a mirror of Circular-Icons released by Prothemedesign.com under the GPL license.
 
 https://prothemedesign.com/tools/circular-icons/
