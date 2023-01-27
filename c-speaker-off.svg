@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-speaker-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-speaker-off" sketch:type="MSArtboardGroup">
+            <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 Z" id="Oval-1" fill="#1191BB" sketch:type="MSShapeGroup"></path>
+            <path d="M19,25 L12,25 L12,39 L19,39 L33,50 L33,14 L19,25 Z" id="Rectangle-183" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M35,35.9725356 C37.2499752,35.7238135 39,33.8162768 39,31.5 C39,29.1837232 37.2499752,27.2761865 35,27.0274644 L35,35.9725356 Z" id="Oval-243" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>c-padlock-closed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="c-padlock-closed" sketch:type="MSArtboardGroup">
+            <path d="M32,64 C49.673112,64 64,49.673112 64,32 C64,14.326888 49.673112,0 32,0 C14.326888,0 0,14.326888 0,32 C0,49.673112 14.326888,64 32,64 Z" id="Oval-1" fill="#FFCC00" sketch:type="MSShapeGroup"></path>
+            <path d="M21,29 L18,29 L18,49 L46,49 L46,29 L43,29 L43,22.5 C43,16.6997351 38.2987029,12 32.4993591,12 L31.5006409,12 C25.6925676,12 21,16.7010101 21,22.5 L21,29 Z M24,29 L40,29 L40,22.9998866 C40,18.5816712 36.4092877,15 32,15 C27.581722,15 24,18.5777418 24,22.9998866 L24,29 Z" id="Rectangle-134" fill="#000000" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
